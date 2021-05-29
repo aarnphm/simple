@@ -2,9 +2,9 @@
 
 <p align="center"><i>a one line ZSH prompt that doesn't suck</i></p>
 
-![simple](./simple.png)
+![simple](./screenshot.png)
 
-_heavily insipred by [pure](https://github.com/sindresorhus/pure), but one line_
+a one line fork from [pure](https://github.com/sindresorhus/pure)
 
 ### Why?
 
